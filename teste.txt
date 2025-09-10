@@ -1,1 +1,2 @@
-teste
+N= input ("Digite o seu nome:")
+print(N)
